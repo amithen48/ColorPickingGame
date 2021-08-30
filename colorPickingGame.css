@@ -1,0 +1,42 @@
+body{
+	background-color: #232323;
+}
+.square{
+	width: 30%;
+	background-color: purple;
+	padding-bottom: 30%;
+	margin: 1.66%;
+	float: left;
+	transition: all 0.7s;
+	border-radius: 15%;
+}
+#container{
+	max-width: 600px;	
+}
+h1{
+	color: azure;
+	text-transform: uppercase;
+	font-family: 'Noto Serif', serif;
+	transition: all 0.7s;
+}
+#line{
+	background-color: azure ;
+	max-width: 550px;
+	margin-bottom: 1%;
+}
+#guess{
+	font-size: 4.0rem;
+}
+#title{
+	padding: 1%;
+}
+#message{
+	font-family: 'Noto Serif', serif;
+	color: #17a2b8;
+	font-weight: bold;
+	padding-right: 8%;
+}
+button{
+	font-family: 'Noto Serif', serif;
+	font-weight: bold;
+}
